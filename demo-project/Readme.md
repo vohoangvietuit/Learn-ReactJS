@@ -24,7 +24,7 @@ permission.
 * Implement upload image to server (ex: user avatar, product image) (Ongoing to fix bug)
 
 **Using technology:** 
-* ReactJS latest (Hook) + Redux (using Hook features)
+* ReactJS (Hook) + Redux (using Hook features)
 * NodeJS: for BE's API
 * MongoDB: with mongoose lib and mLad
 * ExpressJS
